@@ -3,7 +3,7 @@
     src="./profile-edit.jpg"
     with="300"
     height="300"
-    style="border-radius: 50%"
+    style="border-radius: 999px"
   />
   </br>
   Sebastian Giraldo
