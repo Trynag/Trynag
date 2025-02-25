@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="./profile-edit.jpg"
+    src="./profile.png"
     with="300"
     height="300"
     style="border-radius: 999px"
