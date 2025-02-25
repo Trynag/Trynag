@@ -1,5 +1,8 @@
-## Hi there 👋
+# Hi there 👋, I'm Trynag
 
+👨‍💻 **Tgo. Software**
+
+🔅 **I'm currenly working at UNAD**
 <!--
 **Trynag/Trynag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
