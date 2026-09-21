@@ -7,10 +7,10 @@
   />
   </br>
   Sebastian Giraldo
-  <h2 align="center" style="font-size: 28px">Hi there 👋, I'm Trynag</h2>
+  <h2 align="center" style="font-size: 28px">Hi there 👋, I'm Sebastian</h2>
 </p>
-
-<p align="center">👨‍💻 Tgo. Software</p> 
+<p align="center">👨‍💻 Student Ing. Software</p> 
+<p align="center">🎓 Tgo. Software</p> 
 <p align="center">🔅 I'm currenly working at UNAD</p>
 <!--
 **Trynag/Trynag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
